@@ -3,7 +3,7 @@ voila-material
 pandas
 ipywidgets
 seaborn
-plotly
+plotly>=4.9.0
 folium
 matplotlib
 numpy
